@@ -1,0 +1,16 @@
+@media (min-width: 768px) { /* tablets and up */
+    .group2 {
+        text-align: right;
+    }
+
+    .nav {
+      padding-top: 5px;
+    }
+
+}
+
+body {
+  padding-top: 70px; 
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImN1c3RvbS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsNEJBQTRCLG9CQUFvQjtJQUM1QztRQUNJLGtCQUFrQjtLQUNyQjs7SUFFRDtNQUNFLGlCQUFpQjtLQUNsQjs7Q0FFSjs7QUFFRDtFQUNFLGtCQUFrQjtDQUNuQiIsImZpbGUiOiJjdXN0b20uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQG1lZGlhIChtaW4td2lkdGg6IDc2OHB4KSB7IC8qIHRhYmxldHMgYW5kIHVwICovXG4gICAgLmdyb3VwMiB7XG4gICAgICAgIHRleHQtYWxpZ246IHJpZ2h0O1xuICAgIH1cblxuICAgIC5uYXYge1xuICAgICAgcGFkZGluZy10b3A6IDVweDtcbiAgICB9XG5cbn1cblxuYm9keSB7XG4gIHBhZGRpbmctdG9wOiA3MHB4OyBcbn1cbiJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */
